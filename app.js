@@ -6,6 +6,7 @@ Ext.application({
     extend: 'TaskTwoApp.Application',
 
     name: 'TaskTwoApp',
+    stores:['Employees'],
 
    
 
